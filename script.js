@@ -111,5 +111,5 @@ image1.onload = function initialize() {
     canvas.height = image1.height;
 
     effect = new AsciiEffect(ctx, image1.width, image1.height);
-    effect.draw(1);
+    effect.draw(6);
 }
